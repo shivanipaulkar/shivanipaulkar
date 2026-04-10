@@ -1,57 +1,69 @@
-Hi, I'm Shivani Paulkar 👋
+# Hi, I'm Shivani Paulkar 👋
 
-Data Analyst | Finance & Fintech Domain | SQL • Python • Power BI
+**Data Analyst | Finance & Fintech Domain | SQL • Python • Power BI**
 
-I'm a finance-background data analyst based in Nagpur, India. I bring a unique combination of 3+ years of financial data experience from CA articleship and data analytics skills in SQL, Python, and Power BI — enabling me to not just analyze data, but understand the business context behind it.
+I'm a finance-background data analyst based in Nagpur, India. I bring a unique combination of **3+ years of financial data experience** from CA articleship and **data analytics skills** in SQL, Python, and Power BI — enabling me to not just analyze data, but understand the business context behind it.
 
-🎓 CA-IPCC Qualified (Both Groups) | BCCA Graduate
-💼 3 years working with real financial datasets — audits, reconciliation, tax compliance
-📊 Currently building data analytics projects in finance, insurance & lending domains
-🌱 Actively seeking Data Analyst roles
+- 🎓 CA-IPCC Qualified (Both Groups) | BCCA Graduate
+- 💼 3 years working with real financial datasets — audits, reconciliation, tax compliance
+- 📊 Currently building data analytics projects in finance, insurance & lending domains
+- 🌱 Actively seeking **Data Analyst roles** in Finance, BFSI, and Fintech
 
+---
 
-🛠️ Skills & Tools
+## 🛠️ Skills & Tools
 
-Languages : SQL (SQL Server) • Python (Pandas, NumPy, Matplotlib, Seaborn)
+| Category | Tools |
+|---|---|
+| **Languages** | SQL (SQL Server) • Python (Pandas, NumPy, Matplotlib, Seaborn) |
+| **Visualization** | Power BI (DAX, Power Query, Data Modeling) • Advanced Excel |
+| **Analytics** | EDA • Feature Engineering • Descriptive & Inferential Statistics |
+| **Finance Domain** | Financial Auditing • ITR / GST / TDS Compliance • Tally ERP |
 
-Visualization : Power BI (DAX, Power Query, Data Modeling) • Advanced Excel
+---
 
-Analytics : EDA • Feature Engineering • Descriptive & Inferential Statistics
+## 📂 Featured Projects
 
-Finance Domain : Financial Auditing • ITR / GST / TDS Compliance • Tally ERP
+### 🏦 [Loan Default Risk Analysis](https://github.com/shivanipaulkar/LoanDefaultRiskAnalysis)
+`Python` `SQL` `Excel` `Power BI`
 
+Analyzed **255,000+ loan records** across 18 borrower attributes to identify default risk drivers.
+- Identified an **11.6% overall default rate** across the dataset
+- Found DTI ratio, credit score, and employment type as top predictors of default
+- Applied EDA & feature engineering using Python; built Power BI dashboard for risk visualization
 
-📂 Featured Projects
+---
 
-🏦 Loan Default Risk Analysis
- | Python | SQL | Excel | Power BI
+### 🛡️ [Insurance Policy & Claims Performance Analysis](https://github.com/shivanipaulkar/InsurancePolicyAndClaimsPerformanceAnalysis)
+`SQL Server` `Power BI` `DAX`
 
--Analyzed 255,000+ loan records across 18 borrower attributes to identify default risk drivers.
+Analyzed **10,000+ insurance records** across 5 policy types (Auto, Life, Health, Home, Travel).
+- Discovered **43.5% claim rejection rate** and **22.6% pending claims** — flagging process gaps
+- Built interactive Power BI dashboard tracking 6 KPIs including Claim Ratio and Premium Revenue
+- Recommended risk-based pricing strategy for high-loss policy segments
 
--Identified an 11.6% overall default rate across the dataset.
+---
 
--Found DTI ratio, credit score, and employment type as top predictors of default.
+### 🏋️ [Gym Membership Churn Analysis](https://github.com/shivanipaulkar/gym-membership-churn-analysis)
+`SQL` `Excel` `Power BI`
 
--Applied EDA & feature engineering using Python; built Power BI dashboard for risk visualization.
+Queried 5 relational tables (300 members, 380 subscriptions, 13,700+ attendance records) to analyze churn.
+- Identified **11.6% churn rate** and segmented high-risk members by plan type and attendance behavior
+- Developed Power BI dashboard to visualize membership trends and revenue impact of churn
 
+---
 
-🛡️ Insurance Policy & Claims Performance Analysis
- | SQL | Server | Power BI | DAX
- 
--Analyzed 10,000+ insurance records across 5 policy types (Auto, Life, Health, Home, Travel).
+## 📈 GitHub Stats
 
--Discovered 43.5% claim rejection rate and 22.6% pending claims — flagging process gaps.
+![Shivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanipaulkar&show_icons=true&theme=default&hide_border=true)
 
--Built interactive Power BI dashboard tracking 6 KPIs including Claim Ratio and Premium Revenue.
+---
 
--Recommended risk-based pricing strategy for high-loss policy segments.
+## 📬 Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivani%20Paulkar-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shivani-paulkar)
+[![Email](https://img.shields.io/badge/Email-shivanipaulkar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shivanipaulkar@gmail.com)
 
-🏋️ Gym Membership Churn Analysis
- |SQL | Excel | Power BI
- 
--Queried 5 relational tables (300 members, 380 subscriptions, 13,700+ attendance records) to analyze churn.
+---
 
--Identified 11.6% churn rate and segmented high-risk members by plan type and attendance behavior.
-
--Developed Power BI dashboard to visualize membership trends and revenue impact of churn.
+*Open to Data Analyst opportunities in Finance, BFSI, Fintech, and related domains.*
