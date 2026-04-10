@@ -5,7 +5,7 @@ I'm a finance-background data analyst based in Nagpur, India. I bring a unique c
 🎓 CA-IPCC Qualified (Both Groups) | BCCA Graduate
 💼 3 years working with real financial datasets — audits, reconciliation, tax compliance
 📊 Currently building data analytics projects in finance, insurance & lending domains
-🌱 Actively seeking Data Analyst roles in Finance, BFSI, and Fintech
+🌱 Actively seeking Data Analyst roles
 
 
 🛠️ Skills & Tools
